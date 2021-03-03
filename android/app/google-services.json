@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076870437899",
+    "project_id": "flash-chat-704f1",
+    "storage_bucket": "flash-chat-704f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076870437899:android:f47a4be7ae582ce017bb0e",
+        "android_client_info": {
+          "package_name": "com.baba.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076870437899-0blt1tgn5u39kqh5u97brlone6fba6hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDISJEdpoxWxxQEWS1XtV_qZIPG-i9e5hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076870437899-0blt1tgn5u39kqh5u97brlone6fba6hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
