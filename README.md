@@ -1,6 +1,5 @@
 # flash_chat
-
-A new Flutter application.
+Mobile Chatting app based on Flutter functionalities like real-time chat, send messages.
 
 ## Getting Started
 
